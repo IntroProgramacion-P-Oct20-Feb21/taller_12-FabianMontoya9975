@@ -23,7 +23,7 @@ public class Ejemplo00 {
 }
 ```
 #### Respuesta aquí
-En este código se enviandos argumentos a la función misterio, uno es un
+En este código se envian dos argumentos a la función misterio, uno es un
 arreglo unidimensional, y el otro es un número entero.
 Esta funcion miesterio es un método recursivo donde se van a sumar los números
 que se encuentran dentro del arreglo.
